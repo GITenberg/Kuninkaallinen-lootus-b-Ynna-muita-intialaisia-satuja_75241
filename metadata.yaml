@@ -1,0 +1,35 @@
+_repo: Kuninkaallinen-lootus-b-Ynna-muita-intialaisia-satuja_75241
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Anttila, Selma
+    aliases:
+    - Andelin, Selma
+    - Helander, Selma
+    birthdate: 1867
+    deathdate: 1942
+    gutenberg_agent_id: '43058'
+    url: http://www.gutenberg.org/2009/agents/43058
+    wikipedia: https://fi.wikipedia.org/wiki/Selma_Anttila
+description: ''
+gutenberg_issued: '2025-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75241'
+language: fi
+pgterms:marc905: 20250128010329anonymous
+pgterms:marc906: '1911'
+pgterms:marc907: FI
+production_note: Jari Koivisto
+publication_note: '  $aPorvoo :$bWSOY, $c1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Satupirtti, n:o 13
+subjects:
+- !lcsh 'Fairy tales -- India'
+- !lcc 'PZ'
+- GITenberg
+tableOfContents: Kuninkaallinen lootus -- Lingo ja jättiläinen -- Loistava prinsessa.
+title: 'Kuninkaallinen lootus : $b Ynnä muita intialaisia satuja'
+url: http://www.gutenberg.org/ebooks/75241
