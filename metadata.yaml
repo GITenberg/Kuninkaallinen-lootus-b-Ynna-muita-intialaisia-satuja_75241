@@ -1,5 +1,8 @@
 _repo: Kuninkaallinen-lootus-b-Ynna-muita-intialaisia-satuja_75241
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   editor:
     agent_name: Anttila, Selma
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/43058
     wikipedia: https://fi.wikipedia.org/wiki/Selma_Anttila
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75241#Kuninkaallinen-lootus-b-Ynna-muita-intialaisia-satuja
 gutenberg_issued: '2025-01-29'
 gutenberg_type: Text
 identifiers:
